@@ -14,3 +14,8 @@ This involved:
 
 # Project Highlights:
 
+WorldLayoffs : The "World Layoffs" project focuses on cleaning and refining a dataset that tracks layoffs across various industries and countries. This dataset contains vital information about employment trends, total layoff, and fund raised by company.
+
+# How to Use:
+
+Feel free to explore the projects, download the files, and provide feedback. If you have questions or suggestions, don't hesitate to open an issue or reach out.
